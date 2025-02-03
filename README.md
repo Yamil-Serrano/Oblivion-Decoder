@@ -51,7 +51,7 @@ A technical term representing:
 
 ### Compilation Instructions
 ```bash
-gcc -o Oblivion-Decoder main.c
+gcc -o Oblivion-Decoder src/main.c
 ```
 
 ### Execution
