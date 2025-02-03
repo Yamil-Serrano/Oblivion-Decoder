@@ -51,12 +51,12 @@ A technical term representing:
 
 ### Compilation Instructions
 ```bash
-gcc -o OblivionDecoder oblivion_decoder.c
+gcc -o Oblivion-Decoder main.c
 ```
 
 ### Execution
 ```bash
-./OblivionDecoder
+./Oblivion-Decoder
 ```
 
 ## Usage Workflow
